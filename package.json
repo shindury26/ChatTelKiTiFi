@@ -18,8 +18,8 @@
     "Ido Cohen (http://github.com/idoco)"
   ],
   "devDependencies": {
-    "webpack-bundle-analyzer": "^3.9.0",
-    "webpack-dev-server": "^3.1.13"
+    "webpack-bundle-analyzer",
+    "webpack-dev-server"
   },
   "dependencies": {
     "babel-core": "^6.0.20",
